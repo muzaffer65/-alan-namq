@@ -1,0 +1,17 @@
+{
+  "prefix": ".",
+  "token": "Token",
+  "sahip": "701831314533384263",
+  "BotStatus": "idle",
+  "SesKanalı": "ses-id",
+  
+  "EtkinlikKatılımcısı": "rol-id",
+  "ÇekilişKatılımcısı": "rol-id",
+  "DuyuruKatılımcısı": "rol-id",
+  "Partnerkatılımcısı": "rol-id",
+  "Youtubekatılımcısı": "rol-id",
+  
+  
+  "botdurum": "Erdem 💙 Button",
+  "footer": "Erdem 💙 Button"
+}
